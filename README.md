@@ -1,27 +1,26 @@
-# Rap Lyrics Game
+# Rap Lyrics Game 🎵🎤
 
-Rap Lyrics Game is an engaging quiz app where users guess the missing lyrics from popular rap songs. With a graffiti-style theme and fun animations, this game provides an exciting experience for hip-hop enthusiasts.
+Rap Lyrics Game is an engaging and fun quiz game built using Flutter. The game tests your knowledge of rap lyrics with dynamic screens, animations, sound effects, and trivia to make every question entertaining!
 
-## Features
+## Features 🌟
+- **Interactive Start Screen**: Get ready to play with an exciting start screen.
+- **Quiz Screen**: Answer questions about rap lyrics in an intuitive interface.
+- **Correct Answer Screen**: Enjoy confetti animations, sound effects, and learn trivia for every correct answer.
+- **Score Screen**: View your final score and celebrate your knowledge of rap lyrics!
 
-- **Start Screen:** Welcome screen with the graffiti-style theme.
-- **Quiz Screen:** Interactive quiz interface where users select the correct lyrics.
-- **Correct Screen:** Shows feedback for correct answers with sounds, confetti animation, and trivia about the song.
-- **Score Screen:** Displays the user's final score after the game ends.
+## Screenshots 📸
 
-## Screenshots
+1. **Start Screen**
+   <img src="./assets/screenshots/start_screen.png" alt="Start Screen" width="300"/>
 
-### Start Screen  
-![Start Screen](screenshot1.png)
+2. **Quiz Screen**
+   <img src="./assets/screenshots/quiz_screen.png" alt="Quiz Screen" width="300"/>
 
-### Quiz Screen  
-![Quiz Screen](screenshot2.png)
+3. **Correct Answer Screen**
+   <img src="./assets/screenshots/correct_screen.png" alt="Correct Answer Screen" width="300"/>
 
-### Correct Screen  
-![Correct Screen](screenshot3.png)
-
-### Score Screen  
-![Score Screen](screenshot4.png)
+4. **Score Screen**
+   <img src="./assets/screenshots/score_screen.png" alt="Score Screen" width="300"/>
 
 ## How to Run
 
