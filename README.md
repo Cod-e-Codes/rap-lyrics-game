@@ -11,16 +11,16 @@ Rap Lyrics Game is an engaging and fun quiz game built using Flutter. The game t
 ## Screenshots 📸
 
 1. **Start Screen**
-   <img src="./assets/screenshots/start_screen.png" alt="Start Screen" width="300"/>
+   <img src="./screenshot1.png" alt="Start Screen" width="300"/>
 
 2. **Quiz Screen**
-   <img src="./assets/screenshots/quiz_screen.png" alt="Quiz Screen" width="300"/>
+   <img src="./screenshot2.png" alt="Quiz Screen" width="300"/>
 
 3. **Correct Answer Screen**
-   <img src="./assets/screenshots/correct_screen.png" alt="Correct Answer Screen" width="300"/>
+   <img src="./screenshot3.png" alt="Correct Answer Screen" width="300"/>
 
 4. **Score Screen**
-   <img src="./assets/screenshots/score_screen.png" alt="Score Screen" width="300"/>
+   <img src="./screenshot4.png" alt="Score Screen" width="300"/>
 
 ## How to Run
 
